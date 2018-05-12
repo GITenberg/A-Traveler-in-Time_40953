@@ -1,0 +1,34 @@
+_repo: A-Traveler-in-Time_40953
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40953-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Derleth, August
+    alias: Derleth, August William
+    birthdate: 1909
+    deathdate: 1971
+    gutenberg_agent_id: '34440'
+    url: http://www.gutenberg.org/2009/agents/34440
+    wikipedia: http://en.wikipedia.org/wiki/August_Derleth
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2012-10-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40953'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Time travel -- Fiction'
+- !lcsh 'Science fiction'
+- !lcsh 'Brothers and sisters -- Fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Journalists -- Fiction'
+- !lcsh 'New York (N.Y.) -- Fiction'
+title: A Traveler in Time
+url: http://www.gutenberg.org/ebooks/40953
