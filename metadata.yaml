@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34440
     wikipedia: http://en.wikipedia.org/wiki/August_Derleth
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40953#A-Traveler-in-Time
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2012-10-06'
 gutenberg_type: Text
